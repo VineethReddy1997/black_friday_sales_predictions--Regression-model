@@ -23,7 +23,7 @@ Column ID	Column Name	Data type	Description	Masked
 11	Purchase	int64	Purchase amount	False
 
 ---------------------------------------------------
----Libraries are used
+Libraries are used:
 pandas
 matplotlib
 seaborn
@@ -34,7 +34,7 @@ Decision Tree
 Random Forest
 Extra Tress
 ----------------------------------------
-----Furthar  Work
+Furthar  Work:
 Hyperparameter Tuning
 Different Models
 Creation of new attributes
