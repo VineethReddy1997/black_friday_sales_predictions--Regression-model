@@ -24,19 +24,19 @@ Column ID	Column Name	Data type	Description	Masked
 
 ---------------------------------------------------
 Libraries are used:
-pandas
-matplotlib
-seaborn
-scikit-learn
-Algorithms
-Linear Regression
-Decision Tree
-Random Forest
-Extra Tress
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
+Algorithms,
+Linear Regression,
+Decision Tree,
+Random Forest,
+Extra Tress.
 ----------------------------------------
 Furthar  Work:
-Hyperparameter Tuning
-Different Models
-Creation of new attributes
-Normalization
+Hyperparameter Tuning,
+Different Models,
+Creation of new attributes,
+Normalization.
 -------------------------------------------
